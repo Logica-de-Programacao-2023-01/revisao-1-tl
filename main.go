@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"revisao-1/bonus"
-	"revisao-1/q1"
-	"revisao-1/q2"
-	"revisao-1/q3"
-	"revisao-1/q4"
-	"revisao-1/q5"
+	"github.com/revisao-1/bonus"
+	"github.com/revisao-1/q1"
+	"github.com/revisao-1/q2"
+	"github.com/revisao-1/q3"
+	"github.com/revisao-1/q4"
+	"github.com/revisao-1/q5"
 )
 
 func main() {
